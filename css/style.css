@@ -176,9 +176,10 @@ color:#ffffff;
 font-family: var(--font-color);
 color:#ffffff;
 font-size:1.7cm;
-margin-top: 0.9c  m;
+margin-top: 0.9cm;
 margin-bottom: 1cm;
 font-weight: bold;
+text-align: center;
 }
 
 .roadmap-txtpg p {
@@ -186,7 +187,7 @@ font-family: var(--font-color);
 color:#ffffff;
 font-size: larger;
 margin-bottom: 1cm;
-
+text-align: center;
 font-weight:bold;
 }
 
@@ -195,13 +196,15 @@ font-family: var(--font-secondary);
 color:#ffffff;
 margin-bottom: 0.6cm;
 font-weight: bold;
+text-align: center;
 }
 
-.nftwithholdd p { 
+.nftwithhold p { 
 font-family: var(--font-secondary);
 color:#ffffff;
-margin-top: 3cm;
+margin-top: 6cm;
 font-weight: lighter;
+text-align: center;
 }
 
 .aboutushd h1 {
@@ -209,17 +212,20 @@ font-weight: lighter;
   color:#ffffff;
   font-size:1.7cm;
   margin-top: 0.5cm;
-  margin-left: 5cm;
+  text-align: center;
   margin-bottom: 0.6cm;
   font-weight: bold;
+  padding-left: 3rem;
+  padding-right: 3rem;
   }
 
 .aboutustxt p { 
   font-family: var(--font-secondary);
   color:#ffffff;
   margin-bottom: 0.6cm;
-  margin-left: 5cm;
-  margin-right: 0.4cm;
+  text-align: center;
+  padding-left: 3rem;
+  padding-right: 3rem;
   font-weight: bold;
   }
 
@@ -228,17 +234,20 @@ font-weight: lighter;
   color:#ffffff;
   font-size:1.7cm;
   margin-top: 0.9cm;
-  margin-left: 5cm;
+  text-align: center;
   margin-bottom: 0.6cm;
   font-weight: bold;
+  padding-left: 3rem;
+  padding-right: 3rem;
   }
 
 .ourhopestxt p { 
   font-family: var(--font-secondary);
   color:#ffffff;
   margin-bottom: 0.6cm;
-  margin-left: 5cm;
-  margin-right: 0.4cm;
+  text-align: center;
+  padding-left: 3rem;
+  padding-right: 3rem;
   font-weight: bold;
   }
 
@@ -247,17 +256,20 @@ font-weight: lighter;
   color:#ffffff;
   font-size:1.7cm;
   margin-top: 0.9cm;
-  margin-left: 5cm;
+  text-align: center;
   margin-bottom: 0.6cm;
   font-weight: bold;
+  padding-left: 3rem;
+  padding-right: 3rem;
   }
 
 .nftpricingtxt p { 
   font-family: var(--font-secondary);
   color:#ffffff;
   margin-bottom: 0.6cm;
-  margin-left: 5cm;
-  margin-right: 0.4cm;
+  text-align: center;
+  padding-left: 3rem;
+  padding-right: 3rem;
   font-weight: bold;
   }
 
@@ -265,6 +277,8 @@ font-weight: lighter;
     margin-top: 2cm;
     color: #ffffff;
     text-align: center;
+    padding-left: 3rem;
+    padding-right: 3rem;
   }
 
 
